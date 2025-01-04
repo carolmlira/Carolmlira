@@ -1,16 +1,19 @@
-## Hi there 👋
+🤖  OII, conheça um pouco do meu github:
+👨‍💻 Sobre mim:
+Sou uma desenvolvedora apaixonadoa por tecnologia, inovação e aprendizado contínuo.
 
-<!--
-**carolmlira/Carolmlira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Minhas Contribuições:
 
-Here are some ideas to get you started:
+- Desenvolvimento web
+- Ciência de dados
+- Inteligência Artificial
+- Trabalho em projetos que utilizam robótica educacional para:
+- Ensinar conceitos de programação de forma prática e intuitiva.
+- Criar experiências de aprendizado inclusivas e motivadoras.
+- Explorar o potencial dos robôs como ferramentas de ensino em ambientes formais e informais.
+  
+🚀Atualmente, estou explorando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ C++
+🐍 Python
+🤖 Machine Learning 
