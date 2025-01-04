@@ -1,6 +1,4 @@
-🤖  Oii, conheça um pouco do meu github:
-👨‍💻 Sobre mim:
-Sou uma desenvolvedora apaixonadoa por tecnologia, inovação e aprendizado contínuo.
+🤖  Oii, Sou uma desenvolvedora apaixonadoa por tecnologia, inovação e aprendizado contínuo.
 
 🛠️ Minhas Contribuições:
 
