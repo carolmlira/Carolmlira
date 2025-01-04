@@ -1,4 +1,4 @@
-🤖  OII, conheça um pouco do meu github:
+🤖  Oii, conheça um pouco do meu github:
 👨‍💻 Sobre mim:
 Sou uma desenvolvedora apaixonadoa por tecnologia, inovação e aprendizado contínuo.
 
